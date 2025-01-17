@@ -29,6 +29,8 @@ ApplicantScore is an AI-powered resume screening tool designed to streamline the
   - Automate scoring for multiple resumes in one upload.
 - **Proctoring**:
   - Integrate proctoring during job applications.
+- **CRUD Operations On Application**:
+  - To check if any candidate already applied for the job and trying to apply for the second time.
 - **Enhanced AI Insights**:
   - Further refine job descriptions and candidate analysis with advanced AI capabilities.
 
@@ -59,22 +61,20 @@ If you have any questions or suggestions, feel free to reach out if you want to 
 
 ## Demo
 1. Job Creation Page: http://localhost:5173/  
-<img width="1440" alt="Screenshot 2025-01-17 at 1 11 25 PM" src="https://github.com/user-attachments/assets/bbefd62c-267c-4245-985e-3afc22380f01" />
-<img width="1440" alt="Screenshot 2025-01-17 at 1 13 00 PM" src="https://github.com/user-attachments/assets/f56579e6-df29-4ed9-9b72-f7762ed77373" />
-<img width="1434" alt="Screenshot 2025-01-17 at 1 13 32 PM" src="https://github.com/user-attachments/assets/144484b6-88a3-4557-8b8b-b7b44afb2d89" />
+<img width="1440" alt="Screenshot 2025-01-17 at 3 38 30 PM" src="https://github.com/user-attachments/assets/35ddbbbd-782c-4e08-8d74-d4843ce90b39" />
+<img width="1439" alt="Screenshot 2025-01-17 at 3 40 51 PM" src="https://github.com/user-attachments/assets/69fbf222-bbcd-44af-a4f6-9490136a8b9d" />
 
 2. Job Application Page: http://localhost:5173/job-application
-<img width="1440" alt="Screenshot 2025-01-17 at 1 15 08 PM" src="https://github.com/user-attachments/assets/8815ee25-0576-4109-b5c1-06616f77e0de" />
-<img width="1440" alt="Screenshot 2025-01-17 at 1 15 35 PM" src="https://github.com/user-attachments/assets/51afd8e5-8d67-49db-b0f2-15d091183858" />
-<img width="1440" alt="Screenshot 2025-01-17 at 1 15 55 PM" src="https://github.com/user-attachments/assets/872baed0-80b4-456e-b0c9-9e545de306ae" />
-<img width="1417" alt="Screenshot 2025-01-17 at 1 16 28 PM" src="https://github.com/user-attachments/assets/17cf5d0b-fc70-4814-a00c-f084863dfed6" />
-<img width="1440" alt="Screenshot 2025-01-17 at 1 18 42 PM" src="https://github.com/user-attachments/assets/82d853b6-51c2-4a5a-8e0b-d8ac3c2c7b67" />
+<img width="1435" alt="Screenshot 2025-01-17 at 3 42 07 PM" src="https://github.com/user-attachments/assets/3d10cf97-8db5-476c-b65f-cc097a2ae887" />
+<img width="1440" alt="Screenshot 2025-01-17 at 3 42 40 PM" src="https://github.com/user-attachments/assets/5d44f607-7c5a-4595-b70a-5800995ba886" />
+<img width="1440" alt="Screenshot 2025-01-17 at 3 46 42 PM" src="https://github.com/user-attachments/assets/26b5ac0b-4aba-4c70-9717-6c81c335c9f1" />
 
 3. Bulk Upload Resume: http://localhost:5173/bulk-upload
-<img width="1440" alt="Screenshot 2025-01-17 at 1 19 20 PM" src="https://github.com/user-attachments/assets/42c52ac2-de7f-47f6-bc6c-c800cfdc5ffc" />
+<img width="1440" alt="Screenshot 2025-01-17 at 3 47 19 PM" src="https://github.com/user-attachments/assets/5b209219-ccad-4ab3-8191-0476e68a0819" />
 
 4. Candidates List: http://localhost:5173/candidates
-<img width="1440" alt="Screenshot 2025-01-17 at 1 20 38 PM" src="https://github.com/user-attachments/assets/1862a216-3e25-4849-9af5-32f4a8b3199a" />
+<img width="1438" alt="Screenshot 2025-01-17 at 3 47 52 PM" src="https://github.com/user-attachments/assets/7bd48e4a-bcbc-4c3c-9e1a-95834363d911" />
 
 5. Job List: http://localhost:5173/jobs
-<img width="1440" alt="Screenshot 2025-01-17 at 1 21 38 PM" src="https://github.com/user-attachments/assets/f55ad237-1ce6-4a07-a738-8764da95ba56" />
+<img width="1440" alt="Screenshot 2025-01-17 at 3 48 14 PM" src="https://github.com/user-attachments/assets/3cb7b414-9064-4234-83be-98d0db8946b7" />
+
