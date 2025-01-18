@@ -72,9 +72,6 @@ If you have any questions or suggestions, feel free to reach out if you want to 
 3. Bulk Upload Resume: http://localhost:5173/bulk-upload
 <img width="1440" alt="Screenshot 2025-01-17 at 3 47 19 PM" src="https://github.com/user-attachments/assets/5b209219-ccad-4ab3-8191-0476e68a0819" />
 
-4. Candidates List: http://localhost:5173/candidates
-<img width="1438" alt="Screenshot 2025-01-17 at 3 47 52 PM" src="https://github.com/user-attachments/assets/7bd48e4a-bcbc-4c3c-9e1a-95834363d911" />
-
-5. Job List: http://localhost:5173/jobs
+4. Job List: http://localhost:5173/jobs
 <img width="1440" alt="Screenshot 2025-01-17 at 3 48 14 PM" src="https://github.com/user-attachments/assets/3cb7b414-9064-4234-83be-98d0db8946b7" />
 
